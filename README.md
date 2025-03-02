@@ -8,7 +8,7 @@
 
 <h3 align="center"> 🚀 About Me </h3>
 <p align="center">
-I’m a passionate developer with a focus on Machine Learning, Python development. With experience in creating innovative AI projects and building dynamic web applications using Flask, I thrive on solving real-world problems.
+I’m a passionate developer focusing on machine learning and Python development. With experience in creating innovative AI projects and building dynamic web applications using Flask, I thrive on solving real-world problems.
 </p>
 
 ---
@@ -34,6 +34,13 @@ I’m a passionate developer with a focus on Machine Learning, Python developmen
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdullahaSaif&show_icons=true&hide_border=true&theme=algolia&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahaSaif&layout=compact&hide_border=true&theme=algolia" />
+</p>
+
+---
+
+<h3 align="center"> 📊 LeetCode Stats </h3>
+<p align="center">
+  ![](https://leetcard.jacoblin.cool/Abdullah-Saif?ext=contest)
 </p>
 
 ---
