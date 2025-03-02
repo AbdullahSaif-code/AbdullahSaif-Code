@@ -39,8 +39,7 @@ I’m a passionate developer focusing on machine learning and Python development
 ---
 
 <h3 align="center"> 📊 LeetCode Stats </h3>
- ![](https://leetcard.jacoblin.cool/Abdullah-Saif?site=cn)
-
+[![Abdullah-Saif's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Abdullah-Saif&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 ---
 
 <!-- <h3 align="center"> 🏆 Trophies & Achievements </h3>
