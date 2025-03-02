@@ -39,7 +39,7 @@ I’m a passionate developer focusing on machine learning and Python development
 ---
 
 <h3 align="center"> 📊 LeetCode Stats </h3>
- ![](https://leetcard.jacoblin.cool/leetcode?site=cn)
+ ![](https://leetcard.jacoblin.cool/Abdullah-Saif?site=cn)
 
 ---
 
