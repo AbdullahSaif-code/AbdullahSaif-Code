@@ -15,7 +15,7 @@ I’m a passionate developer focusing on machine learning and Python development
 
 <h3 align="center"> 🔥 Highlights </h3>
 
-- 🎓 **Gold Medalist** in BS Artificial Intelligence from Superior University (Continue)
+- 🎓 **Student** BS Artificial Intelligence at Superior University (Continue)
 - 💻 **Experienced Ai and ML** with a focus on real-time AI solutions
 - 🌱 Currently working as a **Intern and Freelancer** and exploring **AI, ML, LLMs**
 <!-- - 🏆 **HackerRank** badge holder with over **300+** solved LeetCode problems -->
