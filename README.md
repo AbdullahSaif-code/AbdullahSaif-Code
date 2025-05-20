@@ -32,8 +32,8 @@ I’m a passionate developer focusing on machine learning and Python development
 
 <h3 align="center"> 📊 GitHub Stats </h3>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdullahaSaif&show_icons=true&hide_border=true&theme=algolia&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahaSaif&layout=compact&hide_border=true&theme=algolia&background=#050e2b" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdullahSaif-Code&show_icons=true&hide_border=true&theme=algolia&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahSaif-Code&layout=compact&hide_border=true&theme=algolia&background=#050e2b" />
 </p>
 
 ---
