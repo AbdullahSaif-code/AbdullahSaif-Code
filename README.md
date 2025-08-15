@@ -41,6 +41,7 @@ I’m a passionate developer focusing on machine learning and Python development
 <h3 align="center"> 📊 LeetCode Stats </h3>
 <p align="center">
 <img height="180em" src="https://leetcode-stats.vercel.app/api?username=Abdullah-Saif&theme=mist" />
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/672d764131d65c235d5bf187?variant=dark&roadmaps=" alt="roadmap.sh"/></a>
   
 
 </p>
